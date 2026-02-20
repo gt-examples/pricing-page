@@ -1,6 +1,6 @@
 {
   "$schema": "https://assets.gtx.dev/config-schema.json",
-  "projectId": "prj_ztnn8ab1c0wvd3kclid7vxw8",
+  "projectId": "prj_ahu5jvur4ovl4lka2xz9fezs",
   "defaultLocale": "en",
   "locales": [
     "en",
@@ -18,5 +18,5 @@
       "output": "public/gt/[locale].json"
     }
   },
-  "_versionId": "96cf01ca2469809ca881856f054c461b2b78f9eb206d14ac5a3ebb8fbe174f98"
+  "_versionId": "f2ec3277602c56feafce4f24b3d1524f7f2a3d992f75e607083181a8f0e8042d"
 }

@@ -1,4 +1,5 @@
 {
+  "8e245e9567001835": "Página de precios de ejemplo creada con General Translation",
   "banner.demo": [
     "Esta es una aplicación de demostración creada con ",
     {
@@ -7,7 +8,8 @@
       "t": "a"
     }
   ],
-  "pricing.enterprise.cta": "Contactar con ventas",
+  "edb21e9f2c500693": "Página de precios | General Translation",
+  "pricing.enterprise.cta": "Contactar con Ventas",
   "pricing.enterprise.description": "Para implementaciones a gran escala",
   "pricing.enterprise.f1": "Traducciones ilimitadas",
   "pricing.enterprise.f2": "Idiomas ilimitados",
@@ -15,9 +17,10 @@
   "pricing.enterprise.f4": "Integraciones personalizadas",
   "pricing.enterprise.f5": "Garantía de SLA",
   "pricing.enterprise.f6": "Opción local",
-  "pricing.enterprise.name": "Empresarial",
+  "pricing.enterprise.name": "Enterprise",
   "pricing.enterprise.price": "Personalizado",
-  "pricing.popular": "Más popular",
+  "pricing.perMonth": "/mes",
+  "pricing.popular": "Más Popular",
   "pricing.pro.cta": "Comenzar prueba gratuita",
   "pricing.pro.description": "Para equipos y productos en crecimiento",
   "pricing.pro.f1": "50,000 traducciones por mes",
@@ -27,6 +30,7 @@
   "pricing.pro.f5": "Glosario personalizado",
   "pricing.pro.f6": "Acceso a la API",
   "pricing.pro.name": "Pro",
+  "pricing.pro.price": "$49",
   "pricing.questions": [
     "¿Tienes preguntas? ",
     {
@@ -34,7 +38,7 @@
       "i": 1,
       "t": "a"
     },
-    " — estaremos encantados de ayudarte."
+    " — con gusto te ayudamos."
   ],
   "pricing.starter.cta": "Comenzar",
   "pricing.starter.description": "Perfecto para hacer pruebas",
@@ -42,7 +46,8 @@
   "pricing.starter.f2": "2 idiomas",
   "pricing.starter.f3": "Soporte comunitario",
   "pricing.starter.f4": "Análisis básico",
-  "pricing.starter.name": "Inicio",
+  "pricing.starter.name": "Starter",
+  "pricing.starter.price": "$0",
   "pricing.subtitle": "Elige el plan que mejor se adapte a tu equipo. Todos los planes incluyen una prueba gratuita de 14 días.",
   "pricing.title": "Precios simples y transparentes"
 }

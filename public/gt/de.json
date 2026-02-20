@@ -1,4 +1,5 @@
 {
+  "8e245e9567001835": "Beispiel für eine Preisseite, erstellt mit General Translation",
   "banner.demo": [
     "Dies ist eine Demo-Anwendung, die mit ",
     {
@@ -8,6 +9,7 @@
     },
     " erstellt wurde"
   ],
+  "edb21e9f2c500693": "Preisseite | General Translation",
   "pricing.enterprise.cta": "Vertrieb kontaktieren",
   "pricing.enterprise.description": "Für umfangreiche Deployments",
   "pricing.enterprise.f1": "Unbegrenzte Übersetzungen",
@@ -18,32 +20,35 @@
   "pricing.enterprise.f6": "On-Premise-Option",
   "pricing.enterprise.name": "Enterprise",
   "pricing.enterprise.price": "Benutzerdefiniert",
+  "pricing.perMonth": "/Monat",
   "pricing.popular": "Am beliebtesten",
   "pricing.pro.cta": "Kostenlose Testversion starten",
   "pricing.pro.description": "Für wachsende Teams und Produkte",
   "pricing.pro.f1": "50.000 Übersetzungen pro Monat",
   "pricing.pro.f2": "Unbegrenzte Sprachen",
-  "pricing.pro.f3": "Vorrangiger Support",
+  "pricing.pro.f3": "Prioritätssupport",
   "pricing.pro.f4": "Erweiterte Analysen",
   "pricing.pro.f5": "Benutzerdefiniertes Glossar",
   "pricing.pro.f6": "API-Zugriff",
   "pricing.pro.name": "Pro",
+  "pricing.pro.price": "$49",
   "pricing.questions": [
-    "Hast du Fragen? ",
+    "Haben Sie Fragen? ",
     {
-      "c": "Kontaktiere uns",
+      "c": "Kontaktieren Sie uns",
       "i": 1,
       "t": "a"
     },
-    " — wir helfen dir gerne weiter."
+    " — wir helfen Ihnen gerne weiter."
   ],
   "pricing.starter.cta": "Loslegen",
-  "pricing.starter.description": "Perfekt zum Ausprobieren",
+  "pricing.starter.description": "Ideal zum Ausprobieren",
   "pricing.starter.f1": "1.000 Übersetzungen pro Monat",
   "pricing.starter.f2": "2 Sprachen",
   "pricing.starter.f3": "Community-Support",
   "pricing.starter.f4": "Grundlegende Analysen",
   "pricing.starter.name": "Starter",
-  "pricing.subtitle": "Wähle den Plan, der am besten zu deinem Team passt. Alle Pläne beinhalten eine 14-tägige kostenlose Testphase.",
+  "pricing.starter.price": "$0",
+  "pricing.subtitle": "Wählen Sie den Plan, der am besten zu Ihrem Team passt. Alle Pläne beinhalten eine 14-tägige kostenlose Testphase.",
   "pricing.title": "Einfache, transparente Preisgestaltung"
 }

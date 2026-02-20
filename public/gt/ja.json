@@ -1,4 +1,5 @@
 {
+  "8e245e9567001835": "General Translation で作成したサンプル料金ページ",
   "banner.demo": [
     "これは",
     {
@@ -8,26 +9,29 @@
     },
     "で構築されたデモアプリケーションです"
   ],
+  "edb21e9f2c500693": "料金ページ | General Translation",
   "pricing.enterprise.cta": "お問い合わせ",
   "pricing.enterprise.description": "大規模なデプロイ向け",
   "pricing.enterprise.f1": "無制限の翻訳",
-  "pricing.enterprise.f2": "無制限の言語",
+  "pricing.enterprise.f2": "無制限の言語対応",
   "pricing.enterprise.f3": "専任サポート",
   "pricing.enterprise.f4": "カスタム統合",
   "pricing.enterprise.f5": "SLA保証",
   "pricing.enterprise.f6": "オンプレミスオプション",
   "pricing.enterprise.name": "エンタープライズ",
   "pricing.enterprise.price": "カスタム",
+  "pricing.perMonth": "/月",
   "pricing.popular": "最も人気",
-  "pricing.pro.cta": "無料トライアルを始める",
+  "pricing.pro.cta": "無料トライアルを開始",
   "pricing.pro.description": "成長するチームとプロダクトのために",
-  "pricing.pro.f1": "月間50,000件の翻訳",
-  "pricing.pro.f2": "無制限の言語",
+  "pricing.pro.f1": "月50,000件の翻訳",
+  "pricing.pro.f2": "無制限の言語対応",
   "pricing.pro.f3": "優先サポート",
   "pricing.pro.f4": "高度な分析",
   "pricing.pro.f5": "カスタム用語集",
   "pricing.pro.f6": "APIアクセス",
   "pricing.pro.name": "Pro",
+  "pricing.pro.price": "$49",
   "pricing.questions": [
     "ご質問はありますか？",
     {
@@ -35,15 +39,16 @@
       "i": 1,
       "t": "a"
     },
-    "—喜んでお手伝いします。"
+    "—喜んでお答えします。"
   ],
-  "pricing.starter.cta": "始めましょう",
-  "pricing.starter.description": "試してみるのに最適",
+  "pricing.starter.cta": "始める",
+  "pricing.starter.description": "試用に最適",
   "pricing.starter.f1": "月1,000件の翻訳",
   "pricing.starter.f2": "2言語",
   "pricing.starter.f3": "コミュニティサポート",
   "pricing.starter.f4": "基本的な分析",
-  "pricing.starter.name": "スターター",
+  "pricing.starter.name": "Starter",
+  "pricing.starter.price": "$0",
   "pricing.subtitle": "チームに最適なプランをお選びください。すべてのプランに14日間の無料トライアルが含まれています。",
   "pricing.title": "シンプルで明快な料金プラン"
 }

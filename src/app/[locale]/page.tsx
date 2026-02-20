@@ -58,8 +58,8 @@ export default function PricingPage() {
               <T id="pricing.starter.name">Starter</T>
             </h2>
             <div className="mt-4 flex items-baseline">
-              <span className="text-4xl font-bold text-zinc-900 dark:text-white">$0</span>
-              <span className="ml-1 text-zinc-500 dark:text-zinc-400">/month</span>
+              <span className="text-4xl font-bold text-zinc-900 dark:text-white"><T id="pricing.starter.price">$0</T></span>
+              <span className="ml-1 text-zinc-500 dark:text-zinc-400"><T id="pricing.perMonth">/month</T></span>
             </div>
             <p className="mt-2 text-sm text-zinc-600 dark:text-zinc-400">
               <T id="pricing.starter.description">Perfect for trying things out</T>
@@ -96,8 +96,8 @@ export default function PricingPage() {
               <T id="pricing.pro.name">Pro</T>
             </h2>
             <div className="mt-4 flex items-baseline">
-              <span className="text-4xl font-bold text-zinc-900 dark:text-white">$49</span>
-              <span className="ml-1 text-zinc-500 dark:text-zinc-400">/month</span>
+              <span className="text-4xl font-bold text-zinc-900 dark:text-white"><T id="pricing.pro.price">$49</T></span>
+              <span className="ml-1 text-zinc-500 dark:text-zinc-400"><T id="pricing.perMonth">/month</T></span>
             </div>
             <p className="mt-2 text-sm text-zinc-600 dark:text-zinc-400">
               <T id="pricing.pro.description">For growing teams and products</T>
