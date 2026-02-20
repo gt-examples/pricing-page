@@ -1,0 +1,29 @@
+{
+  "banner.example": [
+    "这是一个使用 ",
+    {
+      "c": "General Translation",
+      "i": 1,
+      "t": "a"
+    },
+    " 构建的示例应用"
+  ],
+  "button.deploy": "立即部署",
+  "button.docs": "文档",
+  "description.instructions": [
+    "正在寻找起点或更多说明？前往 ",
+    {
+      "c": "模板",
+      "i": 1,
+      "t": "a"
+    },
+    " 或 ",
+    {
+      "c": "学习",
+      "i": 2,
+      "t": "a"
+    },
+    " 中心。"
+  ],
+  "heading.getStarted": "要开始使用，请编辑 page.tsx 文件。"
+}

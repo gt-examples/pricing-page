@@ -1,0 +1,29 @@
+{
+  "banner.example": [
+    "これは",
+    {
+      "c": "General Translation",
+      "i": 1,
+      "t": "a"
+    },
+    "で構築されたサンプルアプリケーションです"
+  ],
+  "button.deploy": "今すぐデプロイ",
+  "button.docs": "ドキュメント",
+  "description.instructions": [
+    "出発点やより詳しい説明をお探しですか？",
+    {
+      "c": "テンプレート",
+      "i": 1,
+      "t": "a"
+    },
+    "または",
+    {
+      "c": "ラーニング",
+      "i": 2,
+      "t": "a"
+    },
+    "センターをご覧ください。"
+  ],
+  "heading.getStarted": "始めるには、page.tsx ファイルを編集してください。"
+}
