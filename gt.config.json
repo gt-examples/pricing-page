@@ -18,5 +18,6 @@
       "output": "public/gt/[locale].json"
     }
   },
-  "_versionId": "f2ec3277602c56feafce4f24b3d1524f7f2a3d992f75e607083181a8f0e8042d"
+  "_versionId": "b5cd5ca242af53ff9098afdbe4cfcda6eddde14a2d0480487a1814b66319cd39",
+  "stageTranslations": true
 }

@@ -178,16 +178,35 @@ export default function PricingPage() {
           </div>
         </div>
 
-        {/* Footer */}
-        <div className="mt-20 text-center">
+        {/* Compare CTA */}
+        <div className="mt-16 text-center">
+          <p className="text-zinc-600 dark:text-zinc-400">
+            <T id="pricing.compare_cta">
+              Not sure which plan is right?{" "}
+              <a href="features" className="font-medium text-blue-600 hover:text-blue-700">
+                Compare all features →
+              </a>
+            </T>
+          </p>
+        </div>
+
+        {/* Questions */}
+        <div className="mt-6 text-center">
           <p className="text-zinc-500 dark:text-zinc-400">
             <T id="pricing.questions">
               Have questions?{" "}
               <a
-                href="mailto:support@generaltranslation.com"
+                href="faq"
                 className="font-medium text-blue-600 hover:text-blue-700"
               >
-                Contact us
+                Check our FAQ
+              </a>{" "}
+              or{" "}
+              <a
+                href="contact"
+                className="font-medium text-blue-600 hover:text-blue-700"
+              >
+                contact us
               </a>{" "}
               — we&apos;re happy to help.
             </T>
