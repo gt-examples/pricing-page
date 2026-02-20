@@ -1,28 +1,48 @@
 {
-  "banner.example": [
-    "Esta es una aplicación de ejemplo creada con ",
+  "banner.demo": [
+    "Esta es una aplicación de demostración creada con ",
     {
       "c": "General Translation",
       "i": 1,
       "t": "a"
     }
   ],
-  "button.deploy": "Implementar ahora",
-  "button.docs": "Documentación",
-  "description.instructions": [
-    "¿Buscas un punto de partida o más instrucciones? Dirígete a ",
+  "pricing.enterprise.cta": "Contactar con ventas",
+  "pricing.enterprise.description": "Para implementaciones a gran escala",
+  "pricing.enterprise.f1": "Traducciones ilimitadas",
+  "pricing.enterprise.f2": "Idiomas ilimitados",
+  "pricing.enterprise.f3": "Soporte dedicado",
+  "pricing.enterprise.f4": "Integraciones personalizadas",
+  "pricing.enterprise.f5": "Garantía de SLA",
+  "pricing.enterprise.f6": "Opción local",
+  "pricing.enterprise.name": "Empresarial",
+  "pricing.enterprise.price": "Personalizado",
+  "pricing.popular": "Más popular",
+  "pricing.pro.cta": "Comenzar prueba gratuita",
+  "pricing.pro.description": "Para equipos y productos en crecimiento",
+  "pricing.pro.f1": "50,000 traducciones por mes",
+  "pricing.pro.f2": "Idiomas ilimitados",
+  "pricing.pro.f3": "Soporte prioritario",
+  "pricing.pro.f4": "Análisis avanzado",
+  "pricing.pro.f5": "Glosario personalizado",
+  "pricing.pro.f6": "Acceso a la API",
+  "pricing.pro.name": "Pro",
+  "pricing.questions": [
+    "¿Tienes preguntas? ",
     {
-      "c": "Templates",
+      "c": "Contáctanos",
       "i": 1,
       "t": "a"
     },
-    " o al centro de ",
-    {
-      "c": "aprendizaje",
-      "i": 2,
-      "t": "a"
-    },
-    "."
+    " — estaremos encantados de ayudarte."
   ],
-  "heading.getStarted": "Para comenzar, edita el archivo page.tsx."
+  "pricing.starter.cta": "Comenzar",
+  "pricing.starter.description": "Perfecto para hacer pruebas",
+  "pricing.starter.f1": "1,000 traducciones por mes",
+  "pricing.starter.f2": "2 idiomas",
+  "pricing.starter.f3": "Soporte comunitario",
+  "pricing.starter.f4": "Análisis básico",
+  "pricing.starter.name": "Inicio",
+  "pricing.subtitle": "Elige el plan que mejor se adapte a tu equipo. Todos los planes incluyen una prueba gratuita de 14 días.",
+  "pricing.title": "Precios simples y transparentes"
 }

@@ -1,29 +1,49 @@
 {
-  "banner.example": [
+  "banner.demo": [
     "这是一个使用 ",
     {
       "c": "General Translation",
       "i": 1,
       "t": "a"
     },
-    " 构建的示例应用"
+    " 构建的演示应用"
   ],
-  "button.deploy": "立即部署",
-  "button.docs": "文档",
-  "description.instructions": [
-    "正在寻找起点或更多说明？前往 ",
+  "pricing.enterprise.cta": "联系销售",
+  "pricing.enterprise.description": "适用于大规模部署",
+  "pricing.enterprise.f1": "无限次翻译",
+  "pricing.enterprise.f2": "无限语言",
+  "pricing.enterprise.f3": "专属支持",
+  "pricing.enterprise.f4": "自定义集成",
+  "pricing.enterprise.f5": "SLA 保障",
+  "pricing.enterprise.f6": "本地部署选项",
+  "pricing.enterprise.name": "企业版",
+  "pricing.enterprise.price": "自定义",
+  "pricing.popular": "最受欢迎",
+  "pricing.pro.cta": "免费开始试用",
+  "pricing.pro.description": "适合成长中的团队和产品",
+  "pricing.pro.f1": "每月 50,000 次翻译",
+  "pricing.pro.f2": "无限语言",
+  "pricing.pro.f3": "优先支持",
+  "pricing.pro.f4": "高级分析",
+  "pricing.pro.f5": "自定义词汇表",
+  "pricing.pro.f6": "API 访问",
+  "pricing.pro.name": "Pro",
+  "pricing.questions": [
+    "有疑问？",
     {
-      "c": "模板",
+      "c": "联系我们",
       "i": 1,
       "t": "a"
     },
-    " 或 ",
-    {
-      "c": "学习",
-      "i": 2,
-      "t": "a"
-    },
-    " 中心。"
+    " — 我们很乐意为您提供帮助。"
   ],
-  "heading.getStarted": "要开始使用，请编辑 page.tsx 文件。"
+  "pricing.starter.cta": "开始使用",
+  "pricing.starter.description": "非常适合上手体验",
+  "pricing.starter.f1": "每月 1,000 次翻译",
+  "pricing.starter.f2": "2 种语言",
+  "pricing.starter.f3": "社区支持",
+  "pricing.starter.f4": "基础分析",
+  "pricing.starter.name": "入门",
+  "pricing.subtitle": "选择最适合您团队的方案。所有方案均包含 14 天免费试用。",
+  "pricing.title": "简单透明的定价"
 }

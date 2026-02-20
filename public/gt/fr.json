@@ -1,28 +1,48 @@
 {
-  "banner.example": [
-    "Ceci est un exemple d'application créée avec ",
+  "banner.demo": [
+    "Ceci est une application de démonstration construite avec ",
     {
       "c": "General Translation",
       "i": 1,
       "t": "a"
     }
   ],
-  "button.deploy": "Déployer maintenant",
-  "button.docs": "Documentation",
-  "description.instructions": [
-    "Vous cherchez un point de départ ou plus d'instructions ? Rendez-vous sur ",
+  "pricing.enterprise.cta": "Contacter les ventes",
+  "pricing.enterprise.description": "Pour les déploiements à grande échelle",
+  "pricing.enterprise.f1": "Traductions illimitées",
+  "pricing.enterprise.f2": "Langues illimitées",
+  "pricing.enterprise.f3": "Assistance dédiée",
+  "pricing.enterprise.f4": "Intégrations personnalisées",
+  "pricing.enterprise.f5": "Garantie SLA",
+  "pricing.enterprise.f6": "Option sur site",
+  "pricing.enterprise.name": "Entreprise",
+  "pricing.enterprise.price": "Personnalisé",
+  "pricing.popular": "Les plus populaires",
+  "pricing.pro.cta": "Commencer l'essai gratuit",
+  "pricing.pro.description": "Pour les équipes et les produits en pleine croissance",
+  "pricing.pro.f1": "50 000 traductions par mois",
+  "pricing.pro.f2": "Langues illimitées",
+  "pricing.pro.f3": "Support prioritaire",
+  "pricing.pro.f4": "Analyses avancées",
+  "pricing.pro.f5": "Glossaire personnalisé",
+  "pricing.pro.f6": "Accès à l'API",
+  "pricing.pro.name": "Pro",
+  "pricing.questions": [
+    "Des questions ? ",
     {
-      "c": "Templates",
+      "c": "Contactez-nous",
       "i": 1,
       "t": "a"
     },
-    " ou le centre d'",
-    {
-      "c": "apprentissage",
-      "i": 2,
-      "t": "a"
-    },
-    "."
+    " — nous sommes là pour vous aider."
   ],
-  "heading.getStarted": "Pour commencer, modifiez le fichier page.tsx."
+  "pricing.starter.cta": "Commencer",
+  "pricing.starter.description": "Parfait pour faire des essais",
+  "pricing.starter.f1": "1 000 traductions par mois",
+  "pricing.starter.f2": "2 langues",
+  "pricing.starter.f3": "Support communautaire",
+  "pricing.starter.f4": "Analyses de base",
+  "pricing.starter.name": "Démarrage",
+  "pricing.subtitle": "Choisissez le forfait qui convient le mieux à votre équipe. Tous les forfaits incluent un essai gratuit de 14 jours.",
+  "pricing.title": "Des tarifs simples et transparents"
 }
