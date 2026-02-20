@@ -1,0 +1,28 @@
+{
+  "banner.example": [
+    "Ceci est un exemple d'application créée avec ",
+    {
+      "c": "General Translation",
+      "i": 1,
+      "t": "a"
+    }
+  ],
+  "button.deploy": "Déployer maintenant",
+  "button.docs": "Documentation",
+  "description.instructions": [
+    "Vous cherchez un point de départ ou plus d'instructions ? Rendez-vous sur ",
+    {
+      "c": "Templates",
+      "i": 1,
+      "t": "a"
+    },
+    " ou le centre d'",
+    {
+      "c": "apprentissage",
+      "i": 2,
+      "t": "a"
+    },
+    "."
+  ],
+  "heading.getStarted": "Pour commencer, modifiez le fichier page.tsx."
+}
