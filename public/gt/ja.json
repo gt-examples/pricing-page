@@ -1,29 +1,49 @@
 {
-  "banner.example": [
+  "banner.demo": [
     "これは",
     {
       "c": "General Translation",
       "i": 1,
       "t": "a"
     },
-    "で構築されたサンプルアプリケーションです"
+    "で構築されたデモアプリケーションです"
   ],
-  "button.deploy": "今すぐデプロイ",
-  "button.docs": "ドキュメント",
-  "description.instructions": [
-    "出発点やより詳しい説明をお探しですか？",
+  "pricing.enterprise.cta": "お問い合わせ",
+  "pricing.enterprise.description": "大規模なデプロイ向け",
+  "pricing.enterprise.f1": "無制限の翻訳",
+  "pricing.enterprise.f2": "無制限の言語",
+  "pricing.enterprise.f3": "専任サポート",
+  "pricing.enterprise.f4": "カスタム統合",
+  "pricing.enterprise.f5": "SLA保証",
+  "pricing.enterprise.f6": "オンプレミスオプション",
+  "pricing.enterprise.name": "エンタープライズ",
+  "pricing.enterprise.price": "カスタム",
+  "pricing.popular": "最も人気",
+  "pricing.pro.cta": "無料トライアルを始める",
+  "pricing.pro.description": "成長するチームとプロダクトのために",
+  "pricing.pro.f1": "月間50,000件の翻訳",
+  "pricing.pro.f2": "無制限の言語",
+  "pricing.pro.f3": "優先サポート",
+  "pricing.pro.f4": "高度な分析",
+  "pricing.pro.f5": "カスタム用語集",
+  "pricing.pro.f6": "APIアクセス",
+  "pricing.pro.name": "Pro",
+  "pricing.questions": [
+    "ご質問はありますか？",
     {
-      "c": "テンプレート",
+      "c": "お問い合わせ",
       "i": 1,
       "t": "a"
     },
-    "または",
-    {
-      "c": "ラーニング",
-      "i": 2,
-      "t": "a"
-    },
-    "センターをご覧ください。"
+    "—喜んでお手伝いします。"
   ],
-  "heading.getStarted": "始めるには、page.tsx ファイルを編集してください。"
+  "pricing.starter.cta": "始めましょう",
+  "pricing.starter.description": "試してみるのに最適",
+  "pricing.starter.f1": "月1,000件の翻訳",
+  "pricing.starter.f2": "2言語",
+  "pricing.starter.f3": "コミュニティサポート",
+  "pricing.starter.f4": "基本的な分析",
+  "pricing.starter.name": "スターター",
+  "pricing.subtitle": "チームに最適なプランをお選びください。すべてのプランに14日間の無料トライアルが含まれています。",
+  "pricing.title": "シンプルで明快な料金プラン"
 }

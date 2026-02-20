@@ -1,6 +1,6 @@
 {
-  "banner.example": [
-    "Dies ist eine Beispielanwendung, die mit ",
+  "banner.demo": [
+    "Dies ist eine Demo-Anwendung, die mit ",
     {
       "c": "General Translation",
       "i": 1,
@@ -8,22 +8,42 @@
     },
     " erstellt wurde"
   ],
-  "button.deploy": "Jetzt deployen",
-  "button.docs": "Dokumentation",
-  "description.instructions": [
-    "Suchst du einen Ausgangspunkt oder weitere Anleitungen? Schau dir ",
+  "pricing.enterprise.cta": "Vertrieb kontaktieren",
+  "pricing.enterprise.description": "Für umfangreiche Deployments",
+  "pricing.enterprise.f1": "Unbegrenzte Übersetzungen",
+  "pricing.enterprise.f2": "Unbegrenzte Sprachen",
+  "pricing.enterprise.f3": "Dedizierter Support",
+  "pricing.enterprise.f4": "Benutzerdefinierte Integrationen",
+  "pricing.enterprise.f5": "SLA-Garantie",
+  "pricing.enterprise.f6": "On-Premise-Option",
+  "pricing.enterprise.name": "Enterprise",
+  "pricing.enterprise.price": "Benutzerdefiniert",
+  "pricing.popular": "Am beliebtesten",
+  "pricing.pro.cta": "Kostenlose Testversion starten",
+  "pricing.pro.description": "Für wachsende Teams und Produkte",
+  "pricing.pro.f1": "50.000 Übersetzungen pro Monat",
+  "pricing.pro.f2": "Unbegrenzte Sprachen",
+  "pricing.pro.f3": "Vorrangiger Support",
+  "pricing.pro.f4": "Erweiterte Analysen",
+  "pricing.pro.f5": "Benutzerdefiniertes Glossar",
+  "pricing.pro.f6": "API-Zugriff",
+  "pricing.pro.name": "Pro",
+  "pricing.questions": [
+    "Hast du Fragen? ",
     {
-      "c": "Templates",
+      "c": "Kontaktiere uns",
       "i": 1,
       "t": "a"
     },
-    " oder das ",
-    {
-      "c": "Learning",
-      "i": 2,
-      "t": "a"
-    },
-    "-Center an."
+    " — wir helfen dir gerne weiter."
   ],
-  "heading.getStarted": "Bearbeite die Datei page.tsx, um loszulegen."
+  "pricing.starter.cta": "Loslegen",
+  "pricing.starter.description": "Perfekt zum Ausprobieren",
+  "pricing.starter.f1": "1.000 Übersetzungen pro Monat",
+  "pricing.starter.f2": "2 Sprachen",
+  "pricing.starter.f3": "Community-Support",
+  "pricing.starter.f4": "Grundlegende Analysen",
+  "pricing.starter.name": "Starter",
+  "pricing.subtitle": "Wähle den Plan, der am besten zu deinem Team passt. Alle Pläne beinhalten eine 14-tägige kostenlose Testphase.",
+  "pricing.title": "Einfache, transparente Preisgestaltung"
 }
