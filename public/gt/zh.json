@@ -9,7 +9,119 @@
     },
     " 构建的演示应用"
   ],
+  "contact.docs.text": "查看我们的文档，获取快速解答和集成指南。",
+  "contact.docs.title": "文档",
+  "contact.email.text": "support@generaltranslation.com",
+  "contact.email.title": "发送邮件",
+  "contact.form.email": "邮箱",
+  "contact.form.message": "消息",
+  "contact.form.name": "名称",
+  "contact.form.plan": "感兴趣的",
+  "contact.form.submit": "发送消息",
+  "contact.response.text": "我们通常在工作日24小时内回复。",
+  "contact.response.title": "响应时间",
+  "contact.subtitle": "准备好开始了吗，或者有任何问题？欢迎随时联系我们。",
+  "contact.success.another": "再发一条消息",
+  "contact.success.text": "感谢您的联系。我们将在24小时内回复您。",
+  "contact.success.title": "消息已发送！",
+  "contact.title": "联系我们",
   "edb21e9f2c500693": "定价页面 | General Translation",
+  "ee665e78cde8ed11": {
+    "c": [
+      {
+        "c": "入门版",
+        "i": 2,
+        "t": "option"
+      },
+      {
+        "c": "专业版",
+        "i": 3,
+        "t": "option"
+      },
+      {
+        "c": "企业版",
+        "i": 4,
+        "t": "option"
+      }
+    ],
+    "i": 1,
+    "t": "select"
+  },
+  "faq.a1": "试用期结束后，您可以继续使用免费的 Starter 套餐，或升级至 Pro 或 Enterprise 套餐。无需信用卡即可开始使用，且不会自动扣费。",
+  "faq.a2": "当然可以！您可以随时升级或降级套餐。升级时，系统将按当前计费周期的剩余时间进行按比例收费。降级将在下一个计费周期生效。",
+  "faq.a3": "每个发送翻译的唯一字符串计为一次翻译。重复的字符串会被缓存，不计入您的配额。翻译记忆库有助于随时间推移减少使用量。",
+  "faq.a4": "我们支持超过 100 种语言和方言。Starter 计划包含您选择的 2 种语言。Pro 和 Enterprise 计划无需额外费用即可使用所有可用语言。",
+  "faq.a5": "是的！Pro 和 Enterprise 计划均包含完整的 REST API 访问权限。您可以将翻译集成到 CI/CD 流水线、CMS 或任何自定义工作流中。我们提供适用于 JavaScript、Python 和 Go 的 SDK。",
+  "faq.a6": "我们为所有付费套餐提供30天退款保证。如果您不满意，请联系我们的支持团队，我们将全额退款——无需任何理由。",
+  "faq.a7": "是的！GT 可与 Next.js、React 和 Vue 等主流框架无缝集成。您可以将我们的 gt-next 或 gt-react 包与现有的国际化库配合使用。",
+  "faq.q1": "14 天免费试用结束后会发生什么？",
+  "faq.q2": "我可以之后更换套餐吗？",
+  "faq.q3": "翻译计数是如何工作的？",
+  "faq.q4": "支持哪些语言？",
+  "faq.q5": "是否有用于程序化访问的 API？",
+  "faq.q6": "您是否提供退款？",
+  "faq.q7": "我可以将 General Translation 与现有的 i18n 配置一起使用吗？",
+  "faq.still_questions": [
+    "还有疑问？",
+    {
+      "c": "联系我们 →",
+      "i": 1,
+      "t": "a"
+    }
+  ],
+  "faq.subtitle": "关于我们的方案与服务，您需要了解的一切",
+  "faq.title": "常见问题解答",
+  "feat.api": "API 访问",
+  "feat.audit_log": "审计日志",
+  "feat.auto_detect": "自动语言检测",
+  "feat.comments": "内联注释",
+  "feat.context_hints": "上下文感知提示",
+  "feat.glossary": "自定义词汇表",
+  "feat.languages": "支持的语言",
+  "feat.monthly_translations": "每月翻译量",
+  "feat.on_premise": "本地部署",
+  "feat.review_workflow": "审核工作流",
+  "feat.roles": "基于角色的访问控制",
+  "feat.sla": "SLA 保障",
+  "feat.sso": "SSO / SAML",
+  "feat.team_members": "团队成员",
+  "feat.translation_memory": "翻译记忆库",
+  "feat.unlimited_1": "无限制",
+  "feat.unlimited_2": "无限制",
+  "feat.unlimited_3": "无限制",
+  "feat.unlimited_4": "无限制",
+  "features.filter.all": "全部",
+  "features.filter.collaboration": "协作",
+  "features.filter.security": "安全与基础设施",
+  "features.filter.translation": "翻译",
+  "features.subtitle": "查看每个方案的具体内容",
+  "features.table.enterprise": "企业版",
+  "features.table.feature": "功能",
+  "features.table.pro": "Pro",
+  "features.table.starter": "入门版",
+  "features.title": "功能对比",
+  "footer.text": [
+    "基于 ",
+    {
+      "c": "General Translation",
+      "i": 1,
+      "t": "a"
+    },
+    " 构建，即时本地化为 6 种语言。"
+  ],
+  "nav.brand": "翻译",
+  "nav.contact": "联系",
+  "nav.faq": "常见问题",
+  "nav.features": "功能",
+  "nav.pricing": "定价",
+  "pricing.compare_cta": [
+    "不确定哪个方案适合您？",
+    {
+      "c": "比较所有功能 →",
+      "i": 1,
+      "t": "a"
+    }
+  ],
   "pricing.enterprise.cta": "联系销售",
   "pricing.enterprise.description": "适用于大规模部署",
   "pricing.enterprise.f1": "无限次翻译",
@@ -35,11 +147,17 @@
   "pricing.questions": [
     "有疑问？",
     {
-      "c": "联系我们",
+      "c": "查看常见问题",
       "i": 1,
       "t": "a"
     },
-    " — 我们很乐意提供帮助。"
+    "或",
+    {
+      "c": "联系我们",
+      "i": 2,
+      "t": "a"
+    },
+    " — 我们很乐意为您提供帮助。"
   ],
   "pricing.starter.cta": "快速开始",
   "pricing.starter.description": "非常适合试用",

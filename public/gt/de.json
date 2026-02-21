@@ -1,5 +1,5 @@
 {
-  "8e245e9567001835": "Beispiel für eine Preisseite, erstellt mit General Translation",
+  "8e245e9567001835": "Eine Beispiel-Preisseite, die mit General Translation erstellt wurde",
   "banner.demo": [
     "Dies ist eine Demo-Anwendung, die mit ",
     {
@@ -9,7 +9,119 @@
     },
     " erstellt wurde"
   ],
+  "contact.docs.text": "In unserer Dokumentation finden Sie schnelle Antworten und Integrationsleitfäden.",
+  "contact.docs.title": "Dokumentation",
+  "contact.email.text": "support@generaltranslation.com",
+  "contact.email.title": "E-Mail senden",
+  "contact.form.email": "E-Mail",
+  "contact.form.message": "Nachricht",
+  "contact.form.name": "Name",
+  "contact.form.plan": "Interessiert an",
+  "contact.form.submit": "Nachricht senden",
+  "contact.response.text": "In der Regel antworten wir innerhalb von 24 Stunden an Werktagen.",
+  "contact.response.title": "Antwortzeit",
+  "contact.subtitle": "Bereit loszulegen oder haben Sie eine Frage? Wir freuen uns von Ihnen zu hören.",
+  "contact.success.another": "Weitere Nachricht senden",
+  "contact.success.text": "Danke für Ihre Nachricht. Wir melden uns innerhalb von 24 Stunden bei Ihnen.",
+  "contact.success.title": "Nachricht gesendet!",
+  "contact.title": "Kontakt aufnehmen",
   "edb21e9f2c500693": "Preisseite | General Translation",
+  "ee665e78cde8ed11": {
+    "c": [
+      {
+        "c": "Starter",
+        "i": 2,
+        "t": "option"
+      },
+      {
+        "c": "Pro",
+        "i": 3,
+        "t": "option"
+      },
+      {
+        "c": "Enterprise",
+        "i": 4,
+        "t": "option"
+      }
+    ],
+    "i": 1,
+    "t": "select"
+  },
+  "faq.a1": "Nach Ablauf Ihrer Testphase können Sie mit dem kostenlosen Starter-Plan fortfahren oder auf Pro oder Enterprise upgraden. Zum Start ist keine Kreditkarte erforderlich, und es erfolgt keine automatische Abbuchung.",
+  "faq.a2": "Selbstverständlich! Sie können jederzeit upgraden oder downgraden. Beim Upgrade wird der verbleibende Abrechnungszeitraum anteilig berechnet. Downgrades treten zum nächsten Abrechnungszeitraum in Kraft.",
+  "faq.a3": "Jede eindeutige Zeichenkette, die zur Übersetzung gesendet wird, zählt als eine Übersetzung. Wiederholte Zeichenketten werden zwischengespeichert und werden nicht auf Ihr Kontingent angerechnet. Das Translation Memory hilft, den Verbrauch im Laufe der Zeit zu reduzieren.",
+  "faq.a4": "Wir unterstützen über 100 Sprachen und Dialekte. Der Starter-Plan umfasst 2 Sprachen nach Wahl. Pro- und Enterprise-Pläne beinhalten alle verfügbaren Sprachen ohne Aufpreis.",
+  "faq.a5": "Ja! Pro- und Enterprise-Pläne beinhalten vollständigen REST-API-Zugriff. Sie können Übersetzungen in Ihre CI/CD-Pipeline, Ihr CMS oder jeden beliebigen benutzerdefinierten Workflow integrieren. Wir stellen SDKs für JavaScript, Python und Go bereit.",
+  "faq.a6": "Wir bieten eine 30-tägige Geld-zurück-Garantie für alle kostenpflichtigen Tarife. Wenn Sie nicht zufrieden sind, wenden Sie sich an unser Support-Team und wir veranlassen eine vollständige Rückerstattung – ohne Wenn und Aber.",
+  "faq.a7": "Ja! GT lässt sich nahtlos in gängige Frameworks wie Next.js, React und Vue integrieren. Sie können unsere gt-next- oder gt-react-Pakete zusammen mit Ihren bestehenden Internationalisierungsbibliotheken verwenden.",
+  "faq.q1": "Was passiert nach meiner 14-tägigen kostenlosen Testphase?",
+  "faq.q2": "Kann ich meinen Plan später wechseln?",
+  "faq.q3": "Wie funktioniert die Übersetzungsanzahl?",
+  "faq.q4": "Welche Sprachen werden unterstützt?",
+  "faq.q5": "Gibt es eine API für den programmatischen Zugriff?",
+  "faq.q6": "Bieten Sie Rückerstattungen an?",
+  "faq.q7": "Kann ich General Translation mit meinem bestehenden i18n-Setup verwenden?",
+  "faq.still_questions": [
+    "Noch Fragen? ",
+    {
+      "c": "Kontakt aufnehmen →",
+      "i": 1,
+      "t": "a"
+    }
+  ],
+  "faq.subtitle": "Alles, was Sie über unsere Pläne und Dienste wissen müssen",
+  "faq.title": "Häufig gestellte Fragen",
+  "feat.api": "API-Zugriff",
+  "feat.audit_log": "Audit-Log",
+  "feat.auto_detect": "Automatische Spracherkennung",
+  "feat.comments": "Inline-Kommentare",
+  "feat.context_hints": "Kontextbezogene Hinweise",
+  "feat.glossary": "Benutzerdefiniertes Glossar",
+  "feat.languages": "Unterstützte Sprachen",
+  "feat.monthly_translations": "Monatliche Übersetzungen",
+  "feat.on_premise": "On-Premise-Deployment",
+  "feat.review_workflow": "Überprüfungs-Workflow",
+  "feat.roles": "Rollenbasierter Zugriff",
+  "feat.sla": "SLA-Garantie",
+  "feat.sso": "SSO / SAML",
+  "feat.team_members": "Teammitglieder",
+  "feat.translation_memory": "Übersetzungsspeicher",
+  "feat.unlimited_1": "Unbegrenzt",
+  "feat.unlimited_2": "Unbegrenzt",
+  "feat.unlimited_3": "Unbegrenzt",
+  "feat.unlimited_4": "Unbegrenzt",
+  "features.filter.all": "Alle",
+  "features.filter.collaboration": "Zusammenarbeit",
+  "features.filter.security": "Sicherheit & Infrastruktur",
+  "features.filter.translation": "Übersetzung",
+  "features.subtitle": "Sehen Sie genau, was Sie mit jedem Plan erhalten",
+  "features.table.enterprise": "Enterprise",
+  "features.table.feature": "Funktion",
+  "features.table.pro": "Pro",
+  "features.table.starter": "Starter",
+  "features.title": "Funktionsvergleich",
+  "footer.text": [
+    "Erstellt mit ",
+    {
+      "c": "General Translation",
+      "i": 1,
+      "t": "a"
+    },
+    ". Sofort in 6 Sprachen lokalisiert."
+  ],
+  "nav.brand": "Übersetzen",
+  "nav.contact": "Kontakt",
+  "nav.faq": "FAQ",
+  "nav.features": "Funktionen",
+  "nav.pricing": "Preise",
+  "pricing.compare_cta": [
+    "Nicht sicher, welcher Plan der richtige ist? ",
+    {
+      "c": "Alle Funktionen vergleichen →",
+      "i": 1,
+      "t": "a"
+    }
+  ],
   "pricing.enterprise.cta": "Vertrieb kontaktieren",
   "pricing.enterprise.description": "Für umfangreiche Deployments",
   "pricing.enterprise.f1": "Unbegrenzte Übersetzungen",
@@ -35,8 +147,14 @@
   "pricing.questions": [
     "Haben Sie Fragen? ",
     {
-      "c": "Kontaktieren Sie uns",
+      "c": "Schauen Sie in unsere FAQ",
       "i": 1,
+      "t": "a"
+    },
+    " oder ",
+    {
+      "c": "kontaktieren Sie uns",
+      "i": 2,
       "t": "a"
     },
     " — wir helfen Ihnen gerne weiter."

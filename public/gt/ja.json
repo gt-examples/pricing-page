@@ -1,5 +1,5 @@
 {
-  "8e245e9567001835": "General Translation で作成したサンプル料金ページ",
+  "8e245e9567001835": "これは、General Translation を使用して作成した料金ページの例です",
   "banner.demo": [
     "これは",
     {
@@ -9,7 +9,118 @@
     },
     "で構築されたデモアプリケーションです"
   ],
+  "contact.docs.text": "クイックアンサーと統合ガイドについては、ドキュメントをご確認ください。",
+  "contact.docs.title": "ドキュメント",
+  "contact.email.text": "support@generaltranslation.com",
+  "contact.email.title": "メールを送る",
+  "contact.form.email": "メール",
+  "contact.form.message": "メッセージ",
+  "contact.form.name": "名前",
+  "contact.form.plan": "興味のある",
+  "contact.form.submit": "メッセージを送信",
+  "contact.response.text": "通常、営業日24時間以内にご返答いたします。",
+  "contact.response.title": "応答時間",
+  "contact.subtitle": "始める準備ができましたか、またはご質問がありますか？ぜひお聞かせください。",
+  "contact.success.another": "別のメッセージを送信",
+  "contact.success.text": "お問い合わせありがとうございます。24時間以内にご返答いたします。",
+  "contact.success.title": "メッセージを送信しました！",
+  "contact.title": "お問い合わせ",
   "edb21e9f2c500693": "料金ページ | General Translation",
+  "ee665e78cde8ed11": {
+    "c": [
+      {
+        "c": "スターター",
+        "i": 2,
+        "t": "option"
+      },
+      {
+        "c": "プロ",
+        "i": 3,
+        "t": "option"
+      },
+      {
+        "c": "エンタープライズ",
+        "i": 4,
+        "t": "option"
+      }
+    ],
+    "i": 1,
+    "t": "select"
+  },
+  "faq.a1": "トライアル終了後は、無料のStarterプランを継続するか、ProまたはEnterpriseにアップグレードできます。開始にクレジットカードは不要で、自動的に課金されることはありません。",
+  "faq.a2": "もちろんです！プランのアップグレードまたはダウングレードはいつでも可能です。アップグレードの場合、現在の請求サイクルの残り期間に応じて日割り計算が適用されます。ダウングレードは次の請求期間から有効になります。",
+  "faq.a3": "翻訳のために送信された一意の文字列は、それぞれ1翻訳としてカウントされます。重複する文字列はキャッシュされ、クォータには含まれません。翻訳メモリにより、使用量を長期的に削減できます。",
+  "faq.a4": "100以上の言語・方言に対応しています。Starterプランでは任意の2言語を選択できます。ProおよびEnterpriseプランでは、追加費用なしで利用可能なすべての言語をご利用いただけます。",
+  "faq.a5": "はい！ProプランおよびEnterpriseプランには、完全なREST APIアクセスが含まれています。翻訳をCI/CDパイプライン、CMS、またはカスタムワークフローに統合できます。JavaScript、Python、Go向けのSDKも提供しています。",
+  "faq.a6": "すべての有料プランに30日間の返金保証を提供しています。ご満足いただけない場合は、サポートチームまでご連絡ください。理由を問わず、全額返金いたします。",
+  "faq.a7": "はい！GTはNext.js、React、Vueなどの主要なフレームワークとシームレスに統合できます。既存の国際化ライブラリと併用して、gt-nextやgt-reactパッケージをご利用いただけます。",
+  "faq.q1": "14日間の無料トライアル終了後はどうなりますか？",
+  "faq.q2": "後でプランを変更できますか？",
+  "faq.q3": "翻訳のカウントはどのように機能しますか？",
+  "faq.q4": "対応言語は何ですか？",
+  "faq.q5": "プログラムによるアクセスのためのAPIはありますか？",
+  "faq.q6": "返金はできますか？",
+  "faq.q7": "General Translation は既存の i18n 環境と併用できますか？",
+  "faq.still_questions": [
+    "まだご不明な点がありますか？ ",
+    {
+      "c": "お問い合わせ →",
+      "i": 1,
+      "t": "a"
+    }
+  ],
+  "faq.subtitle": "プランとサービスについて知っておくべきすべてのこと",
+  "faq.title": "よくある質問",
+  "feat.api": "APIアクセス",
+  "feat.audit_log": "監査ログ",
+  "feat.auto_detect": "自動言語検出",
+  "feat.comments": "インラインコメント",
+  "feat.context_hints": "コンテキスト対応ヒント",
+  "feat.glossary": "カスタム用語集",
+  "feat.languages": "対応言語",
+  "feat.monthly_translations": "月次翻訳",
+  "feat.on_premise": "オンプレミス展開",
+  "feat.review_workflow": "レビューワークフロー",
+  "feat.roles": "ロールベースのアクセス",
+  "feat.sla": "SLA保証",
+  "feat.sso": "SSO / SAML",
+  "feat.team_members": "チームメンバー",
+  "feat.translation_memory": "翻訳メモリ",
+  "feat.unlimited_1": "無制限",
+  "feat.unlimited_2": "無制限",
+  "feat.unlimited_3": "無制限",
+  "feat.unlimited_4": "無制限",
+  "features.filter.all": "すべて",
+  "features.filter.collaboration": "コラボレーション",
+  "features.filter.security": "セキュリティ & インフラ",
+  "features.filter.translation": "翻訳",
+  "features.subtitle": "各プランで得られる内容を詳しく確認する",
+  "features.table.enterprise": "エンタープライズ",
+  "features.table.feature": "機能",
+  "features.table.pro": "Pro",
+  "features.table.starter": "Starter",
+  "features.title": "機能比較",
+  "footer.text": [
+    {
+      "c": "General Translation",
+      "i": 1,
+      "t": "a"
+    },
+    " を使用して構築。6言語に即時ローカライズ。"
+  ],
+  "nav.brand": "翻訳",
+  "nav.contact": "お問い合わせ",
+  "nav.faq": "よくある質問",
+  "nav.features": "機能",
+  "nav.pricing": "料金",
+  "pricing.compare_cta": [
+    "どのプランが適切か迷っていますか？ ",
+    {
+      "c": "全機能を比較する →",
+      "i": 1,
+      "t": "a"
+    }
+  ],
   "pricing.enterprise.cta": "お問い合わせ",
   "pricing.enterprise.description": "大規模なデプロイ向け",
   "pricing.enterprise.f1": "無制限の翻訳",
@@ -33,13 +144,19 @@
   "pricing.pro.name": "Pro",
   "pricing.pro.price": "$49",
   "pricing.questions": [
-    "ご質問はありますか？",
+    "ご不明な点がございますか？ ",
     {
-      "c": "お問い合わせ",
+      "c": "FAQをご確認ください",
       "i": 1,
       "t": "a"
     },
-    "—喜んでお答えします。"
+    "または",
+    {
+      "c": "お問い合わせ",
+      "i": 2,
+      "t": "a"
+    },
+    " — 喜んでサポートいたします。"
   ],
   "pricing.starter.cta": "始める",
   "pricing.starter.description": "試用に最適",

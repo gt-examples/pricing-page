@@ -1,5 +1,5 @@
 {
-  "8e245e9567001835": "Página de precios de ejemplo creada con General Translation",
+  "8e245e9567001835": "Ejemplo de página de precios creada con General Translation",
   "banner.demo": [
     "Esta es una aplicación de demostración creada con ",
     {
@@ -8,7 +8,119 @@
       "t": "a"
     }
   ],
+  "contact.docs.text": "Consulta nuestra documentación para obtener respuestas rápidas y guías de integración.",
+  "contact.docs.title": "Documentación",
+  "contact.email.text": "support@generaltranslation.com",
+  "contact.email.title": "Envíanos un correo",
+  "contact.form.email": "Correo electrónico",
+  "contact.form.message": "Mensaje",
+  "contact.form.name": "Nombre",
+  "contact.form.plan": "Interesado en",
+  "contact.form.submit": "Enviar mensaje",
+  "contact.response.text": "Normalmente respondemos en un plazo de 24 horas en días hábiles.",
+  "contact.response.title": "Tiempo de respuesta",
+  "contact.subtitle": "¿Listo para comenzar o tienes alguna pregunta? Nos encantaría saber de ti.",
+  "contact.success.another": "Enviar otro mensaje",
+  "contact.success.text": "Gracias por contactarnos. Te responderemos en un plazo de 24 horas.",
+  "contact.success.title": "¡Mensaje enviado!",
+  "contact.title": "Contáctanos",
   "edb21e9f2c500693": "Página de precios | General Translation",
+  "ee665e78cde8ed11": {
+    "c": [
+      {
+        "c": "Starter",
+        "i": 2,
+        "t": "option"
+      },
+      {
+        "c": "Pro",
+        "i": 3,
+        "t": "option"
+      },
+      {
+        "c": "Enterprise",
+        "i": 4,
+        "t": "option"
+      }
+    ],
+    "i": 1,
+    "t": "select"
+  },
+  "faq.a1": "Cuando finalice tu período de prueba, puedes continuar con el plan gratuito Starter o actualizar a Pro o Enterprise. No se requiere tarjeta de crédito para comenzar y no se te cobrará automáticamente.",
+  "faq.a2": "¡Por supuesto! Puedes cambiar tu plan en cualquier momento. Al actualizar, se te cobrará de forma proporcional por el tiempo restante de tu ciclo de facturación. Los cambios a un plan inferior entran en vigor en el siguiente período de facturación.",
+  "faq.a3": "Cada cadena única enviada para traducción cuenta como una traducción. Las cadenas repetidas se almacenan en caché y no se descuentan de tu cuota. La memoria de traducción ayuda a reducir el uso con el tiempo.",
+  "faq.a4": "Admitimos más de 100 idiomas y dialectos. El plan Starter incluye 2 idiomas a tu elección. Los planes Pro y Enterprise incluyen todos los idiomas disponibles sin costo adicional.",
+  "faq.a5": "¡Sí! Los planes Pro y Enterprise incluyen acceso completo a la API REST. Puedes integrar traducciones en tu pipeline de CI/CD, CMS o cualquier flujo de trabajo personalizado. Ofrecemos SDKs para JavaScript, Python y Go.",
+  "faq.a6": "Ofrecemos una garantía de devolución de dinero de 30 días en todos los planes de pago. Si no estás satisfecho, contacta a nuestro equipo de soporte y procesaremos un reembolso completo — sin preguntas.",
+  "faq.a7": "¡Sí! GT se integra perfectamente con frameworks populares como Next.js, React y Vue. Puedes usar nuestros paquetes gt-next o gt-react junto con tus bibliotecas de internacionalización existentes.",
+  "faq.q1": "¿Qué ocurre después de mi prueba gratuita de 14 días?",
+  "faq.q2": "¿Puedo cambiar de plan más adelante?",
+  "faq.q3": "¿Cómo funciona el recuento de traducciones?",
+  "faq.q4": "¿Qué idiomas son compatibles?",
+  "faq.q5": "¿Existe una API para acceso programático?",
+  "faq.q6": "¿Ofrecen reembolsos?",
+  "faq.q7": "¿Puedo usar General Translation con mi configuración de i18n existente?",
+  "faq.still_questions": [
+    "¿Aún tienes preguntas? ",
+    {
+      "c": "Contáctanos →",
+      "i": 1,
+      "t": "a"
+    }
+  ],
+  "faq.subtitle": "Todo lo que necesitas saber sobre nuestros planes y servicios",
+  "faq.title": "Preguntas frecuentes",
+  "feat.api": "Acceso a la API",
+  "feat.audit_log": "Registro de auditoría",
+  "feat.auto_detect": "Detección automática de idioma",
+  "feat.comments": "Comentarios en línea",
+  "feat.context_hints": "Sugerencias contextuales",
+  "feat.glossary": "Glosario personalizado",
+  "feat.languages": "Idiomas compatibles",
+  "feat.monthly_translations": "Traducciones mensuales",
+  "feat.on_premise": "Implementación en las instalaciones",
+  "feat.review_workflow": "Revisar flujo de trabajo",
+  "feat.roles": "Acceso basado en roles",
+  "feat.sla": "Garantía de SLA",
+  "feat.sso": "SSO / SAML",
+  "feat.team_members": "Miembros del equipo",
+  "feat.translation_memory": "Memoria de traducción",
+  "feat.unlimited_1": "Ilimitado",
+  "feat.unlimited_2": "Ilimitado",
+  "feat.unlimited_3": "Ilimitado",
+  "feat.unlimited_4": "Ilimitado",
+  "features.filter.all": "Todos",
+  "features.filter.collaboration": "Colaboración",
+  "features.filter.security": "Seguridad e Infraestructura",
+  "features.filter.translation": "Traducción",
+  "features.subtitle": "Ve exactamente lo que obtienes con cada plan",
+  "features.table.enterprise": "Enterprise",
+  "features.table.feature": "Función",
+  "features.table.pro": "Pro",
+  "features.table.starter": "Starter",
+  "features.title": "Comparación de características",
+  "footer.text": [
+    "Desarrollado con ",
+    {
+      "c": "General Translation",
+      "i": 1,
+      "t": "a"
+    },
+    ". Localizado al instante en 6 idiomas."
+  ],
+  "nav.brand": "Traducir",
+  "nav.contact": "Contacto",
+  "nav.faq": "Preguntas frecuentes",
+  "nav.features": "Características",
+  "nav.pricing": "Precios",
+  "pricing.compare_cta": [
+    "¿No sabes qué plan es el adecuado? ",
+    {
+      "c": "Comparar todas las funciones →",
+      "i": 1,
+      "t": "a"
+    }
+  ],
   "pricing.enterprise.cta": "Contactar con Ventas",
   "pricing.enterprise.description": "Para implementaciones a gran escala",
   "pricing.enterprise.f1": "Traducciones ilimitadas",
@@ -34,14 +146,20 @@
   "pricing.questions": [
     "¿Tienes preguntas? ",
     {
-      "c": "Contáctanos",
+      "c": "Consulta nuestras FAQ",
       "i": 1,
+      "t": "a"
+    },
+    " o ",
+    {
+      "c": "contáctanos",
+      "i": 2,
       "t": "a"
     },
     " — con gusto te ayudamos."
   ],
   "pricing.starter.cta": "Comenzar",
-  "pricing.starter.description": "Perfecto para hacer pruebas",
+  "pricing.starter.description": "Ideal para hacer pruebas",
   "pricing.starter.f1": "1,000 traducciones por mes",
   "pricing.starter.f2": "2 idiomas",
   "pricing.starter.f3": "Soporte comunitario",

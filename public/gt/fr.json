@@ -8,7 +8,119 @@
       "t": "a"
     }
   ],
-  "edb21e9f2c500693": "Page des tarifs | General Translation",
+  "contact.docs.text": "Consultez notre documentation pour des réponses rapides et des guides d'intégration.",
+  "contact.docs.title": "Documentation",
+  "contact.email.text": "support@generaltranslation.com",
+  "contact.email.title": "Envoyez-nous un e-mail",
+  "contact.form.email": "E-mail",
+  "contact.form.message": "Message",
+  "contact.form.name": "Nom",
+  "contact.form.plan": "Intéressé par",
+  "contact.form.submit": "Envoyer un message",
+  "contact.response.text": "Nous répondons généralement dans les 24 heures les jours ouvrables.",
+  "contact.response.title": "Temps de réponse",
+  "contact.subtitle": "Prêt à commencer ou vous avez une question ? Nous serions ravis de vous entendre.",
+  "contact.success.another": "Envoyer un autre message",
+  "contact.success.text": "Merci de nous avoir contactés. Nous vous répondrons dans les 24 heures.",
+  "contact.success.title": "Message envoyé !",
+  "contact.title": "Contactez-nous",
+  "edb21e9f2c500693": "Page de tarifs | General Translation",
+  "ee665e78cde8ed11": {
+    "c": [
+      {
+        "c": "Starter",
+        "i": 2,
+        "t": "option"
+      },
+      {
+        "c": "Pro",
+        "i": 3,
+        "t": "option"
+      },
+      {
+        "c": "Enterprise",
+        "i": 4,
+        "t": "option"
+      }
+    ],
+    "i": 1,
+    "t": "select"
+  },
+  "faq.a1": "À la fin de votre période d'essai, vous pouvez continuer avec le plan gratuit Starter ou passer au plan Pro ou Enterprise. Aucune carte de crédit n'est requise pour commencer, et vous ne serez pas facturé automatiquement.",
+  "faq.a2": "Bien sûr ! Vous pouvez passer à un forfait supérieur ou inférieur à tout moment. En cas de mise à niveau, le montant sera calculé au prorata pour le reste de votre cycle de facturation. Les rétrogradations prennent effet à la prochaine période de facturation.",
+  "faq.a3": "Chaque chaîne unique envoyée pour traduction compte comme une traduction. Les chaînes répétées sont mises en cache et ne sont pas décomptées de votre quota. La mémoire de traduction aide à réduire l'utilisation au fil du temps.",
+  "faq.a4": "Nous prenons en charge plus de 100 langues et dialectes. Le plan Starter inclut 2 langues au choix. Les plans Pro et Enterprise incluent toutes les langues disponibles sans frais supplémentaires.",
+  "faq.a5": "Oui ! Les plans Pro et Enterprise incluent un accès complet à l'API REST. Vous pouvez intégrer les traductions dans votre pipeline CI/CD, votre CMS ou tout workflow personnalisé. Nous fournissons des SDK pour JavaScript, Python et Go.",
+  "faq.a6": "Nous offrons une garantie de remboursement de 30 jours sur tous les forfaits payants. Si vous n'êtes pas satisfait, contactez notre équipe d'assistance et nous procéderons à un remboursement intégral — sans poser de questions.",
+  "faq.a7": "Oui ! GT s'intègre parfaitement avec les frameworks populaires comme Next.js, React et Vue. Vous pouvez utiliser nos packages gt-next ou gt-react en parallèle de vos bibliothèques d'internationalisation existantes.",
+  "faq.q1": "Que se passe-t-il après ma période d'essai gratuite de 14 jours ?",
+  "faq.q2": "Puis-je changer de forfait ultérieurement ?",
+  "faq.q3": "Comment fonctionne le nombre de traductions ?",
+  "faq.q4": "Quelles langues sont prises en charge ?",
+  "faq.q5": "Existe-t-il une API pour un accès programmatique ?",
+  "faq.q6": "Proposez-vous des remboursements ?",
+  "faq.q7": "Puis-je utiliser General Translation avec ma configuration i18n existante ?",
+  "faq.still_questions": [
+    "Vous avez encore des questions ? ",
+    {
+      "c": "Contactez-nous →",
+      "i": 1,
+      "t": "a"
+    }
+  ],
+  "faq.subtitle": "Tout ce que vous devez savoir sur nos offres et services",
+  "faq.title": "Foire aux questions",
+  "feat.api": "Accès API",
+  "feat.audit_log": "Journal d'audit",
+  "feat.auto_detect": "Détection automatique de la langue",
+  "feat.comments": "Commentaires en ligne",
+  "feat.context_hints": "Indices contextuels",
+  "feat.glossary": "Glossaire personnalisé",
+  "feat.languages": "Langues prises en charge",
+  "feat.monthly_translations": "Traductions mensuelles",
+  "feat.on_premise": "Déploiement sur site",
+  "feat.review_workflow": "Flux de révision",
+  "feat.roles": "Accès basé sur les rôles",
+  "feat.sla": "Garantie SLA",
+  "feat.sso": "SSO / SAML",
+  "feat.team_members": "Membres de l'équipe",
+  "feat.translation_memory": "Mémoire de traduction",
+  "feat.unlimited_1": "Illimité",
+  "feat.unlimited_2": "Illimité",
+  "feat.unlimited_3": "Illimité",
+  "feat.unlimited_4": "Illimité",
+  "features.filter.all": "Tout",
+  "features.filter.collaboration": "Collaboration",
+  "features.filter.security": "Sécurité & Infrastructure",
+  "features.filter.translation": "Traduction",
+  "features.subtitle": "Découvrez exactement ce que vous obtenez avec chaque plan",
+  "features.table.enterprise": "Entreprise",
+  "features.table.feature": "Fonctionnalité",
+  "features.table.pro": "Pro",
+  "features.table.starter": "Starter",
+  "features.title": "Comparaison des fonctionnalités",
+  "footer.text": [
+    "Conçu avec ",
+    {
+      "c": "General Translation",
+      "i": 1,
+      "t": "a"
+    },
+    ". Localisé instantanément en 6 langues."
+  ],
+  "nav.brand": "Traduire",
+  "nav.contact": "Contact",
+  "nav.faq": "FAQ",
+  "nav.features": "Fonctionnalités",
+  "nav.pricing": "Tarifs",
+  "pricing.compare_cta": [
+    "Vous hésitez entre les formules ? ",
+    {
+      "c": "Comparer toutes les fonctionnalités →",
+      "i": 1,
+      "t": "a"
+    }
+  ],
   "pricing.enterprise.cta": "Contacter les ventes",
   "pricing.enterprise.description": "Pour les déploiements à grande échelle",
   "pricing.enterprise.f1": "Traductions illimitées",
@@ -21,7 +133,7 @@
   "pricing.enterprise.price": "Personnalisé",
   "pricing.perMonth": "/mois",
   "pricing.popular": "Les plus populaires",
-  "pricing.pro.cta": "Commencer l'essai gratuit",
+  "pricing.pro.cta": "Démarrer l'essai gratuit",
   "pricing.pro.description": "Pour les équipes et produits en croissance",
   "pricing.pro.f1": "50 000 traductions par mois",
   "pricing.pro.f2": "Langues illimitées",
@@ -34,14 +146,20 @@
   "pricing.questions": [
     "Des questions ? ",
     {
-      "c": "Contactez-nous",
+      "c": "Consultez notre FAQ",
       "i": 1,
+      "t": "a"
+    },
+    " ou ",
+    {
+      "c": "contactez-nous",
+      "i": 2,
       "t": "a"
     },
     " — nous sommes là pour vous aider."
   ],
   "pricing.starter.cta": "Commencer",
-  "pricing.starter.description": "Idéal pour faire des essais",
+  "pricing.starter.description": "Idéal pour tester",
   "pricing.starter.f1": "1 000 traductions par mois",
   "pricing.starter.f2": "2 langues",
   "pricing.starter.f3": "Support communautaire",
