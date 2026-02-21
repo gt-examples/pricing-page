@@ -41,21 +41,20 @@ function XMark() {
   );
 }
 
-function Cell({ value }: { value: boolean | string }) {
-  if (typeof value === "string")
-    return (
-      <span className="text-sm font-medium text-zinc-700 dark:text-zinc-300">
-        {value}
-      </span>
-    );
-  return value ? <CheckMark /> : <XMark />;
+function Cell({ value }: { value: boolean | string | React.ReactNode }) {
+  if (typeof value === "boolean") return value ? <CheckMark /> : <XMark />;
+  return (
+    <span className="text-sm font-medium text-zinc-700 dark:text-zinc-300">
+      {value}
+    </span>
+  );
 }
 
 type Feature = {
   name: React.ReactNode;
-  starter: boolean | string;
-  pro: boolean | string;
-  enterprise: boolean | string;
+  starter: boolean | string | React.ReactNode;
+  pro: boolean | string | React.ReactNode;
+  enterprise: boolean | string | React.ReactNode;
   category: string;
 };
 
@@ -64,14 +63,14 @@ const features: Feature[] = [
     name: <T id="feat.monthly_translations">Monthly translations</T>,
     starter: "1,000",
     pro: "50,000",
-    enterprise: "Unlimited",
+    enterprise: <T id="feat.unlimited_1">Unlimited</T>,
     category: "translation",
   },
   {
     name: <T id="feat.languages">Supported languages</T>,
     starter: "2",
-    pro: "Unlimited",
-    enterprise: "Unlimited",
+    pro: <T id="feat.unlimited_2">Unlimited</T>,
+    enterprise: <T id="feat.unlimited_3">Unlimited</T>,
     category: "translation",
   },
   {
@@ -106,7 +105,7 @@ const features: Feature[] = [
     name: <T id="feat.team_members">Team members</T>,
     starter: "1",
     pro: "10",
-    enterprise: "Unlimited",
+    enterprise: <T id="feat.unlimited_4">Unlimited</T>,
     category: "collaboration",
   },
   {

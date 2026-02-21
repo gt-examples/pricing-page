@@ -87,11 +87,13 @@ export default function ContactPage() {
                 <label className="mb-1 block text-sm font-medium text-zinc-700 dark:text-zinc-300">
                   <T id="contact.form.plan">Interested in</T>
                 </label>
-                <select className="w-full rounded-lg border border-zinc-200 bg-zinc-50 px-4 py-2.5 text-sm text-zinc-900 outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-100 dark:border-zinc-700 dark:bg-zinc-800 dark:text-white dark:focus:ring-blue-900">
-                  <option>Starter</option>
-                  <option>Pro</option>
-                  <option>Enterprise</option>
-                </select>
+                <T>
+                  <select className="w-full rounded-lg border border-zinc-200 bg-zinc-50 px-4 py-2.5 text-sm text-zinc-900 outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-100 dark:border-zinc-700 dark:bg-zinc-800 dark:text-white dark:focus:ring-blue-900">
+                    <option>Starter</option>
+                    <option>Pro</option>
+                    <option>Enterprise</option>
+                  </select>
+                </T>
               </div>
               <div>
                 <label className="mb-1 block text-sm font-medium text-zinc-700 dark:text-zinc-300">
